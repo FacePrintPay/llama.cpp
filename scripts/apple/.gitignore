@@ -4,3 +4,7 @@ node_modules/
 __pycache__/
 *.pyc
 .vercel/
+validate-ios.sh
+validate-macos.sh
+validate-tvos.sh
+validate-visionos.sh
