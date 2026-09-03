@@ -4,6 +4,3 @@ node_modules/
 __pycache__/
 *.pyc
 .vercel/
-public/bundle.js
-tests/unit/test_security.py
-webui/tests/stories/fixtures/ai-tutorial.ts
